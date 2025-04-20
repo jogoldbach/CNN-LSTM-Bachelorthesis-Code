@@ -4,6 +4,8 @@ The code in this repository was developed for my bachelor thesis at [TU Berlin](
 
 &nbsp;&nbsp;&nbsp;&nbsp; __How can machine learning algorithms be developed to accurately detect robotic idle times in human-robot-collaborations in real time?__
 
+
+The written code was styled to fit the [PEP 8](https://peps.python.org/pep-0008/) coding convention. The Docsstring written where partly genereated by the [PyCharm-IDE](https://www.jetbrains.com/de-de/pycharm/).
 ## Structure
 
 - ```Final Code```
@@ -16,6 +18,10 @@ The code in this repository was developed for my bachelor thesis at [TU Berlin](
   - [Training](https://github.com/jogoldbach/-CNN-LSTM-Bachelorthesis-Code/tree/main/Final%20Code/Training)
       
 ## Requirements
+  All the requirements can be installed with pip: 
+
+    pip install -r path/to/requirements.txt
+
   Python 3.12+
   
   PyTorch
@@ -29,8 +35,6 @@ The code in this repository was developed for my bachelor thesis at [TU Berlin](
   Matplotlib
   
   Sklearn
-  
-  Shutil
   
   Ray
   
