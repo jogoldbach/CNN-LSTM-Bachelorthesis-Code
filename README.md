@@ -1,6 +1,6 @@
 # CNN-LSTM-Bachelorthesis-Code
 
-The code in this repository was developed for my bachelor thesis at [TU Berlin](https://www.tu.berlin/en) at the department [IAT](https://www.tu.berlin/iat) with the title: 
+The code in this repository was developed for Joshua Goldbachs bachelor thesis at [TU Berlin](https://www.tu.berlin/en) at the department [IAT](https://www.tu.berlin/iat) with the title: 
 
 &nbsp;&nbsp;&nbsp;&nbsp; __How can machine learning algorithms be developed to accurately detect robotic idle times in human-robot-collaborations in real time?__
 
